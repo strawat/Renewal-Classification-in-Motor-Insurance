@@ -1,2 +1,1 @@
-# Renewal-Classification-in-Motor-Insurance
-This dataset includes 70,290 real-world Thai private-car insurance policies along with their demographic, geographic, vehicle, and claim-history variables. The data was collected in 2024.
+Boonkrong, P., Shakya, S., Yang, J., & Simmachan, T. (2025). Risk Factors in Males and Females for Disease Classification Based on International Classification of Diseases, 10th Revision Codes. Engineering Proceedings, 108(1), 26. https://doi.org/10.3390/engproc2025108026
